@@ -1,6 +1,6 @@
 # LmFaO
 ## LED LFO
-This module is intended to drive LEDs with a simple but powerful LFO. The LEDs can be used with LDRs to control anything that you would normally control with a potentiometer/variable resistor. 
+This module is intended to drive LEDs with a simple but powerful LFO. The LEDs can be used in combination with LDRs to control anything that you would normally control with a potentiometer/variable resistor. 
 
 Because you can select an LDR value that suits your project, this module can be used to apply an LFO to virtually anything.
 
@@ -43,4 +43,4 @@ The module has adjustable Rate, Depth, and 4 possible waveforms to select from.
     * Number will vary by project, schematic shows 5 in use but alter to suit your project
     * LED Resistors will vary depending on Voltage and LED color. Green LEDs worked very well with 5v and 220R Resistors
 
-#### Donate with Sponsor Button Text 
+#### Not expected or required, but if you build it and like it feel free to buy me a coffee or a beer with the Sponsor button!
