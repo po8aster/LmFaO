@@ -7,7 +7,7 @@ Because you can select an LDR value that suits your project, this module can be 
 The module has adjustable Rate, Depth, and 4 possible waveforms to select from.
 
 ## Notes
-* Designed and tested with 5v, but theoretically should work with up to 5
+* Designed and tested with 5v, but theoretically should work with up to 12
 * Capacitor Value determines the range of speeds
   * Recommend a value between 10uF and 100uF
 * Resistor R5 determines the max speed in the range
